@@ -19,13 +19,13 @@
 </p>
 <br/><br/>
 
-- 🌱 I’m currently learning **We'll see soon,Stay Tuned...**
+- 🌱 I’m currently learning- **We'll see soon,Stay Tuned...**
 
-- 💬 Ask me about **everything except code, please.**
+- 💬 Ask me about- **everything except code, please.**
 
-- 📫 How to reach me **Send a carrier pigeon. Or just DM me.**
+- 📫 How to reach me- **Send a carrier pigeon. Or just DM me.**
 
-- ⚡ Fun fact **My code crashes, but my humour never does.**
+- ⚡ Fun fact- **My code crashes, but my humour never does.**
 
 
 
