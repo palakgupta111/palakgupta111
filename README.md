@@ -27,34 +27,48 @@
 
 - ⚡ Fun fact- **My code crashes, but my humour never does.**
 
+## 🤝 Connect with me
 
-
-## Connect with me:
-<p align="left">
-  <a href="https://codepen.io/@zwnvxfij-the-bold" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen" height="30" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/palakxgupta_01" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/palak gupta" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/palakgupta_01" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="30" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.leetcode.com/palakgupta_01" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://auth.geeksforgeeks.org/user/palakguptwzl0" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gfg" height="30" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-<br/><br/>
-
-
-
-
+<table style="background-color: #f9f9f9; border: 2px solid #ddd; border-radius: 10px; padding: 20px;">
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <a href="https://codepen.io/@zwnvxfij-the-bold" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="40" width="40" />
+        <br /><sub><b>CodePen</b></sub>
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://twitter.com/palakxgupta_01" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" />
+        <br /><sub><b>Twitter</b></sub>
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://linkedin.com/in/palak gupta" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+        <br /><sub><b>LinkedIn</b></sub>
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://www.codechef.com/users/palakgupta_01" target="_blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="40" width="40" />
+        <br /><sub><b>CodeChef</b></sub>
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://www.leetcode.com/palakgupta_01" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" />
+        <br /><sub><b>LeetCode</b></sub>
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://auth.geeksforgeeks.org/user/palakguptwzl0" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GFG" height="40" width="40" />
+        <br /><sub><b>GFG</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 ## Languages and Tools:
@@ -80,7 +94,7 @@
   <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight&bgColor=%230d1117&textColor=white" alt="Joke" width="600"/>
 </p>
 
-//## Frequency[coding_life] = infinte and this is what that thing is: ERRROOORRRRRRRR
+## Frequency[coding_life] = infinte and this is what that thing is: ERRROOORRRRRRRR
 
 <p>
   <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="250" alt="Coding and Sleeping"/>
