@@ -6,8 +6,10 @@
 <h3 align="center">Slightly confused, always curious — building stuff anyways </h3>
 
 <p align="center">
- 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzdhaHd2cm8wdzZhZDgwYzJianZxM2xqMXh3bHBzNWRybnVsdDR5dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="500" alt="Sleeping"/>
+<img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXBkN2ZleWY1djQ3cmJ2ZGZjdWpsMXQwNjQ5YWJyM253YjFid2p3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26u4nJPf0JtQPdStq/giphy.gif"width="500" alt="Sleeping"/>
+
+
+
 </p>
 
 <br/>
