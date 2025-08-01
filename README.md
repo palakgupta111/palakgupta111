@@ -133,12 +133,6 @@
   <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight&bgColor=%230d1117&textColor=white" alt="Joke" width="600"/>
 </p>
 
-## Frequency[coding_life] = infinte and this is what that thing is: ERRROOORRRRRRRR
-
-<p>
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="250" alt="Coding and Sleeping"/>
-</p>
-
 ## Most Used Languages:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=palakgupta111&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
