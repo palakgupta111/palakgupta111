@@ -7,9 +7,6 @@
 
 <p align="center">
 <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXBkN2ZleWY1djQ3cmJ2ZGZjdWpsMXQwNjQ5YWJyM253YjFid2p3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26u4nJPf0JtQPdStq/giphy.gif"width="500" alt="Sleeping"/>
-
-
-
 </p> 
 
 <br/>
