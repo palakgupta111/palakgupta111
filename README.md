@@ -16,7 +16,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7008C&width=435&lines=Self-taught+Full-Stack+Developer;Code.+Debug.+Repeat.;Coffee+%E2%98%95+%2B+Code+%3D+Productivity" alt="Typing SVG" />
 </p>
-<br/><br/>
+<br/>
+<br/>
 
 - 🌱 I’m currently learning- **We'll see soon,Stay Tuned...**
 
