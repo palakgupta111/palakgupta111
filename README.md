@@ -115,6 +115,11 @@
       </a>
     </td>
     <td align="center" style="padding: 15px;">
+      <a href="https://expressjs.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="50" height="50" />
+      </a>
+    </td>
+    <td align="center" style="padding: 15px;">
       <a href="https://reactjs.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50" />
       </a>
@@ -124,9 +129,13 @@
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50" />
       </a>
     </td>
+    <td align="center" style="padding: 15px;">
+      <a href="https://www.postman.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50" />
+      </a>
+    </td>
   </tr>
 </table>
-
 
 ## 😂 Random Dev Joke
 <p align="left">
