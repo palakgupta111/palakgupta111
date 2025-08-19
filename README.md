@@ -29,123 +29,39 @@
 
 ## 🤝 Connect with me
 
-<table style="background-color: #f9f9f9; border: 2px solid #ddd; border-radius: 10px; padding: 20px;">
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <a href="https://codepen.io/@zwnvxfij-the-bold" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="40" width="40" />
-        <br /><sub><b>CodePen</b></sub>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://twitter.com/palakxgupta_01" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" />
-        <br /><sub><b>Twitter</b></sub>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://linkedin.com/in/palak gupta" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
-        <br /><sub><b>LinkedIn</b></sub>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://www.codechef.com/users/palakgupta_01" target="_blank">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="40" width="40" />
-        <br /><sub><b>CodeChef</b></sub>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://www.leetcode.com/palakgupta_01" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" />
-        <br /><sub><b>LeetCode</b></sub>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://auth.geeksforgeeks.org/user/palakguptwzl0" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GFG" height="40" width="40" />
-        <br /><sub><b>GFG</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
+[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/palakxgupta_01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/palak%20gupta)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/palakgupta_01)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/palakgupta_01)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/palakguptwzl0)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:palakgupta955442@gmail.com)
 
-## 💻 Languages and Tools:
+## 🛠️ Tech Stack
 
-<table style="background-color: #f9f9f9; border: 2px solid #ddd; border-radius: 10px;">
-  <tr>
-    <td align="center" style="padding: 15px;">
-      <a href="https://getbootstrap.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50" />
-      </a>
-    </td>
-    <td align="center" style="padding: 15px;">
-      <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="50" height="50" />
-      </a>
-    </td>
-    <td align="center" style="padding: 15px;">
-      <a href="https://git-scm.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50" />
-      </a>
-    </td>
-    <td align="center" style="padding: 15px;">
-      <a href="https://www.w3.org/html/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50" height="50" />
-      </a>
-    </td>
-    <td align="center" style="padding: 15px;">
-      <a href="https://www.java.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50" />
-      </a>
-    </td>
-    <td align="center" style="padding: 15px;">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
-      </a>
-    </td>
-    <td align="center" style="padding: 15px;">
-      <a href="https://www.mongodb.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50" />
-      </a>
-    </td>
-    <td align="center" style="padding: 15px;">
-      <a href="https://nodejs.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50" />
-      </a>
-    </td>
-    <td align="center" style="padding: 15px;">
-      <a href="https://expressjs.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="50" height="50" />
-      </a>
-    </td>
-    <td align="center" style="padding: 15px;">
-      <a href="https://reactjs.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50" />
-      </a>
-    </td>
-    <td align="center" style="padding: 15px;">
-      <a href="https://tailwindcss.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50" />
-      </a>
-    </td>
-    <td align="center" style="padding: 15px;">
-      <a href="https://www.postman.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-## 😂 Random Dev Joke
 <p align="left">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight&bgColor=%230d1117&textColor=white" alt="Joke" width="600"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin:10px 10px 10px 0; background:#fff; border-radius:10px; padding:7px; box-shadow:0 2px 8px #1a1a2e22;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin:10px 10px 10px 0; background:#fff; border-radius:10px; padding:7px; box-shadow:0 2px 8px #1a1a2e22;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin:10px 10px 10px 0; background:#fff; border-radius:10px; padding:7px; box-shadow:0 2px 8px #1a1a2e22;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin:10px 10px 10px 0; background:#fff; border-radius:10px; padding:7px; box-shadow:0 2px 8px #1a1a2e22;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin:10px 10px 10px 0; background:#fff; border-radius:10px; padding:7px; box-shadow:0 2px 8px #1a1a2e22;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin:10px 10px 10px 0; background:#fff; border-radius:10px; padding:7px; box-shadow:0 2px 8px #1a1a2e22;" />
+  <!-- Express (light bg for visibility) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="48" height="48" style="margin:10px 10px 10px 0; background:#fff; border-radius:10px; padding:7px; box-shadow:0 2px 8px #1a1a2e22;" />
+  <!-- EJS (light bg for visibility) -->
+  <img src="https://simpleicons.org/icons/ejs.svg" alt="EJS" width="48" height="48" style="margin:10px 10px 10px 0; background:#fff; border-radius:10px; padding:7px; box-shadow:0 2px 8px #1a1a2e22;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin:10px 10px 10px 0; background:#fff; border-radius:10px; padding:7px; box-shadow:0 2px 8px #1a1a2e22;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="48" height="48" style="margin:10px 10px 10px 0; background:#fff; border-radius:10px; padding:7px; box-shadow:0 2px 8px #1a1a2e22;" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin:10px 10px 10px 0; background:#fff; border-radius:10px; padding:7px; box-shadow:0 2px 8px #1a1a2e22;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48" height="48" style="margin:10px 10px 10px 0; background:#fff; border-radius:10px; padding:7px; box-shadow:0 2px 8px #1a1a2e22;" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin:10px 10px 10px 0; background:#fff; border-radius:10px; padding:7px; box-shadow:0 2px 8px #1a1a2e22;" />
 </p>
+
 
 ## Most Used Languages:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=palakgupta111&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
 
 ## GitHub Stats:
 <p align="center">
